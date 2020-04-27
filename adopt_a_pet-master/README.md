@@ -1,5 +1,7 @@
-Adopt a pet group project.
+Testing spring backend converting from express
 
+
+Front end by
 Juvenal Miranda
 Stephanie Garcia
 Jasen Lambright
